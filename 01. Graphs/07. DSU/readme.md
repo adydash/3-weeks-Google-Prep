@@ -52,5 +52,7 @@ def find(node,arr):
 
 ### Quick Union
 
+### Union by Rank
+
 
 
