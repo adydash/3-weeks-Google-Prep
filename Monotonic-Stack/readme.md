@@ -7,3 +7,7 @@
 - When a element is popped from the monotonic stack, it will never be used again.
 
 ## Problems
+
+- https://leetcode.com/problems/largest-rectangle-in-histogram/
+- https://leetcode.com/problems/maximal-rectangle/solution/
+- https://leetcode.com/problems/reducing-dishes/
